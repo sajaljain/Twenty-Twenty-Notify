@@ -1,2 +1,0 @@
-notify-send "Please Blink Your Eyes"
-echo "Script executed pn $(date)" > /home/sajal/twenty_twenty/traillog.txt
